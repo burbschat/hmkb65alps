@@ -72,6 +72,17 @@ editor are annotated using labels as `row,col` to designate where they will be
 in the matrix.
 Find annotated layout in `hmkb64alps-annotated.json`
 
+**TLDR**: 
+```
+cd kicad-kbplacer
+hatch run tools:layout2schematic -in ../hmkb64alps-annotated-converted.json -out ../pcb/hmkb64alps-matrix.kicad_sch
+```
+Creates the base matrix schematic which I then manually edited to fit my
+preferences.
+I load this as a hierarchical sheet into the main kicad project.
+As I prefer to not use global labels for the rows/columns, I also manually
+replace the global labels with hierarchical labels.
+
 ### Laser Cutting Services
 * [sculpteo](https://www.sculpteo.com/)
 * [ponoko](https://www.ponoko.com/)
