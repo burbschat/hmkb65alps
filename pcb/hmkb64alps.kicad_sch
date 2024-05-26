@@ -5430,7 +5430,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "22pF"
 			(at 45.7263 85.09 90)
 			(effects
 				(font
@@ -7246,7 +7246,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "22pF"
 			(at 45.7263 97.79 90)
 			(effects
 				(font
