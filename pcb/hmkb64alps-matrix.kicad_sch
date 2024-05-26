@@ -5554,7 +5554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-6.25U"
 			(at 92.71 104.14 0)
 			(effects
 				(font
@@ -6280,7 +6280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1.25U"
 			(at 41.91 104.14 0)
 			(effects
 				(font
@@ -7382,7 +7382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1.75U"
 			(at 29.21 63.5 0)
 			(effects
 				(font
@@ -7960,7 +7960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1.75U"
 			(at 181.61 83.82 0)
 			(effects
 				(font
@@ -9700,7 +9700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-2.25U"
 			(at 29.21 83.82 0)
 			(effects
 				(font
@@ -11118,7 +11118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1.25U"
 			(at 54.61 104.14 0)
 			(effects
 				(font
@@ -11192,7 +11192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1.5U"
 			(at 29.21 43.18 0)
 			(effects
 				(font
@@ -14370,7 +14370,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1.5U"
 			(at 194.31 43.18 0)
 			(effects
 				(font
@@ -15170,7 +15170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-2U"
 			(at 194.31 22.86 0)
 			(effects
 				(font
@@ -15244,7 +15244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1.25U"
 			(at 29.21 104.14 0)
 			(effects
 				(font
@@ -15802,7 +15802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-1U"
+		(property "Footprint" "MX_Alps_Hybrid:MX-Alps-Hybrid-2.25U"
 			(at 194.31 63.5 0)
 			(effects
 				(font
