@@ -31,10 +31,17 @@ The corresponding **annotated** (i.e. which key goes where in the matrix) in
 * Consider using chips containing multiple diodes in the same package to avoid soldering pain
 * Use Alps/MX hybrid footprints
 * Consider Alps/MX hybrid plate
+* Mill-Max Sockets for hot-swapping (should also work with hybrid footprints as seen in the pictures [here](https://blog.keeb.io/how-to-make-your-keyboard-hotswappable-with-mill-max-sockets/)).
+
+### Footprints etc.
+Included as submodules in `lib/`. 
+* [ai03-2725's MX_V2](https://github.com/ai03-2725/MX_V2) for switch footprints
+* [ai03-2725's Type-C.pretty](https://github.com/ai03-2725/Type-C.pretty.git) for USB-C port footprints
 
 ## Plate
 ### Design
-Use [this tool](http://builder.swillkb.com/) to get plate hole locations
+[ai03 Plate Generator](https://kbplate.ai03.com/) seems to be a well made modern solution (repository [here](https://github.com/ai03-2725/yet-another-keyboard-builder))!
+Probably prefer using this over [what used to be the standard tool(?)](http://builder.swillkb.com/) to get plate hole locations
 (select no outline, as the correct one is not available there), then manually
 add the correct outline from the MX plate files distributed on the HMKB
 discord.
