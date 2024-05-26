@@ -4332,6 +4332,75 @@
 		)
 		(uuid "f740aa1f-1446-41ea-bded-3eed66fdb4b6")
 	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 226.06 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "08e84177-3ff6-4517-ba06-515fb7ab559e")
+		(property "Netclass" "PWR"
+			(at 226.7585 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 198.12 144.78 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "749e3a15-fa80-4c74-9f2f-0d55a703c3a8")
+		(property "Netclass" "PWR"
+			(at 195.58 144.0815 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 254 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cdf341e9-9008-41fa-b675-eb93d3f859d1")
+		(property "Netclass" "PWR"
+			(at 254.6985 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 96.52 69.85 0)
