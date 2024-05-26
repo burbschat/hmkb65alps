@@ -36,7 +36,8 @@ The corresponding **annotated** (i.e. which key goes where in the matrix) in
 ### Footprints etc.
 Included as submodules in `lib/`. 
 * [ai03-2725's MX_V2](https://github.com/ai03-2725/MX_V2) for switch footprints
-* [ai03-2725's Type-C.pretty](https://github.com/ai03-2725/Type-C.pretty.git) for USB-C port footprints
+* [ai03-2725's Type-C.pretty](https://github.com/ai03-2725/Type-C.pretty) for USB-C port footprints
+* [ai03-2725's random-keyboard-parts.pretty](https://github.com/ai03-2725/random-keyboard-parts.pretty) for USB-C port footprints
 
 ## Plate
 ### Design
