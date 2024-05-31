@@ -4233,6 +4233,17 @@
 		)
 		(uuid "24c27818-a291-40e7-bf19-feed612c9b33")
 	)
+	(label "DR+"
+		(at 217.17 115.57 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2cc8e53c-0244-42ef-8e8c-3984cdee6141")
+	)
 	(label "D-"
 		(at 64.77 111.76 0)
 		(fields_autoplaced yes)
@@ -4287,6 +4298,17 @@
 			(justify right bottom)
 		)
 		(uuid "cb33a13a-5c8a-4837-a50e-ae41e548b1dd")
+	)
+	(label "DR-"
+		(at 217.17 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d194cadd-1c3b-4371-b092-a8412853fa26")
 	)
 	(label "MISO"
 		(at 128.27 91.44 180)
@@ -6378,7 +6400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ai03-2725_Type-C:USB_C_GCT_USB4085"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 191.77 116.84 0)
 			(effects
 				(font
