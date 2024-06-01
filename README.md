@@ -38,6 +38,12 @@ Included as submodules in `lib/`.
 * [ai03-2725's MX_V2](https://github.com/ai03-2725/MX_V2) for switch footprints
 * [ai03-2725's Type-C.pretty](https://github.com/ai03-2725/Type-C.pretty) for USB-C port footprints
 * [ai03-2725's random-keyboard-parts.pretty](https://github.com/ai03-2725/random-keyboard-parts.pretty) for USB-C port footprints
+The MX_V2 (which also contain ALPS footprints) are fine, the other ones are not
+quite to my taste.
+Found a ALPS switch model [here](https://www.thingiverse.com/thing:3829342/files). 
+Very kindly there is an scad file provided (and not just a mesh `.stl` or similar)!
+
+#### 3D Models for Key Switches
 
 ### Components
 #### USB-C Connector
