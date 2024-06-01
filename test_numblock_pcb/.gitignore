@@ -1,0 +1,5 @@
+*-cache
+*-backups
+*.lck
+kbplacer.log
+\#auto_saved_files\#

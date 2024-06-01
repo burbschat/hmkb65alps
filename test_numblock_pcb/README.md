@@ -1,0 +1,19 @@
+# Numblock PCB for testing before ordering a larger pcb
+
+## Layout
+```
+["Num Lock","/","*","-"],
+["7\nHome","8\n↑","9\nPgUp",{h:2},"+"],
+["4\n←","5","6\n→"],
+["1\nEnd","2\n↓","3\nPgDn",{h:2},"Enter"],
+[{w:2},"0\nIns",".\nDel"]
+```
+
+Layout with matrix position labels for matrix schematic generation using kicad-kbplacer:
+```
+["1,1","1,2","1,3","1,4"],
+["2,1","2,2","2,3",{h:2},"2,4"],
+["3,1","3,2","3,3"],
+["4,1","4,2","4,3",{h:2},"4,4"],
+[{w:2},"5,1","5,3"]
+```
