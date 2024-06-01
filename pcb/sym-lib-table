@@ -2,5 +2,5 @@
   (version 7)
   (lib (name "ai03-2725_Type-C")(type "Legacy")(uri "${KIPRJMOD}/../lib/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "ai03-2725_random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/../lib/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name "hmkb64alps")(type "KiCad")(uri "${KIPRJMOD}/../lib/hmkb64alps.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd_custom")(type "KiCad")(uri "${KIPRJMOD}/../lib/kbd_custom.kicad_sym")(options "")(descr ""))
 )

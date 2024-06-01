@@ -39,6 +39,24 @@ Included as submodules in `lib/`.
 * [ai03-2725's Type-C.pretty](https://github.com/ai03-2725/Type-C.pretty) for USB-C port footprints
 * [ai03-2725's random-keyboard-parts.pretty](https://github.com/ai03-2725/random-keyboard-parts.pretty) for USB-C port footprints
 
+### Components
+#### USB-C Connector
+All of the options here are selected to be hand solderable.
+
+`Korean Hroparts Elec TYPE-C-31-M-12` Seems to be a popular choice, probably because it's dirt cheap (<20cents).
+However, it's not available on DigiKey, Mouser or RS. 
+
+`GCT` offers a series of hand solderable connectors.
+[Compare them here](https://gct.co/product-compare/usb/usb4085,usb4105,usb4730,usb4800,usb4215).
+Note that `USB4085` is entirely through hole, which however at the same time makes accessing the pins challenging.
+For this PCB the accessible D+/D- pins were in the wrong order, which is why a different connector was used.
+`USB4105` and `USB4215` seem to be essentially the same, with `USB4215` having some locating plastic pegs on the bottom.
+The latter however seems not to be available at the usual vendors, so here `USB4105` is choosen as an slighly less cheap
+alternative to the dirt cheep `HRO` mentioned above.
+`GCT` also has very well structured documentation and links to footprints and 3d models on their website.
+
+
+
 ## Plate
 ### Design
 [ai03 Plate Generator](https://kbplate.ai03.com/) seems to be a well made modern solution (repository [here](https://github.com/ai03-2725/yet-another-keyboard-builder))!
