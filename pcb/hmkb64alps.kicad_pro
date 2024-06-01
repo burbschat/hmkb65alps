@@ -491,9 +491,7 @@
       "+5V": "PWR",
       "GND": "PWR",
       "Net-(D69-VCC)": "PWR",
-      "Net-(D70-VCC)": "PWR",
-      "Net-(D71-VCC)": "PWR",
-      "Net-(F2-Pad1)": "PWR"
+      "Net-(D71-VCC)": "PWR"
     },
     "netclass_patterns": []
   },
