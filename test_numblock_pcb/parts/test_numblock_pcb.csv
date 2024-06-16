@@ -1,0 +1,18 @@
+Id,Designator,Footprint,Quantity,Designation,Supplier,Supplier Ref,Quantity Ordered,Supplier Description,Comment,Cost
+1,"SW6,SW2,SW10,SW9,SW12,SW1,SW17,SW4,SW3,SW5,SW14,SW7,SW11,SW13",MX-Alps-Hybrid-1U,14,SW_Push,,,,,,
+2,"C3,C7,C4,C2",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4,0.1uF,RS,648-0941,100,KEMET 積層セラミックコンデンサ(MLCC) 100nF 50V dc 0805 (2012M) C0805C104J5RACTU,,250
+3,C8,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,1uF,RS,134-9148,100,KYOCERA AVX 積層セラミックコンデンサ(MLCC) 1μF 16V dc 0805 (2012M) 0805YG105ZAT2A,,250
+4,"SW8,SW15,SW16",MX-Alps-Hybrid-2U,3,SW_Push,,,,,,
+5,"R6,R1",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,10k,RS,"223-0556, 223-0578",50,"TE Connectivity 厚膜チップ抵抗器, 2012サイズ, 0.125W, 8.2kΩ, ±1%, TE Connectivity 厚膜チップ抵抗器, 2012サイズ, 0.125W, 12kΩ, ±1%",Ordered 8.2k AND 12k as closest available values,61+61
+6,"R2,R3",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,5.1k,RS,223-0528,50,"TE Connectivity 厚膜チップ抵抗器, 2012サイズ, 0.125W, 4.7kΩ, ±1%",Ordered 4.7k as closest available value,189
+7,C1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,10uF,RS,240-5703,50,太陽誘電 MLCC 10μF 10V dc 0805 (2012M) MSASL21GAB7106KTNA01,,398
+8,"D12,D1,D5,D7,D13,D2,D10,D9,D17,D14,D8,D4,D16,D3,D11,D6,D15",D_SOD-123,17,D,RS,791-6167,200,"onsemi 小信号 整流ダイオード, 200mA, 250V 表面実装, 2-Pin SOD-123 シリコンジャンクション 1.25V",,1742
+9,U1,TQFP-44_10x10mm_P0.8mm,1,ATmega32U4-A,DigiKey,ATMEGA32U4-AU-ND,4,IC MCU 8BIT 32KB FLASH 44TQFP ,,3540
+10,D18,SOT-143,1,PRTR5V0U2X,DigiKey,1727-3884-1-ND,10,TVS DIODE 5.5VWM SOT143B ,,579
+11,"R5,R4",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,22,RS,223-0203,50,"TE Connectivity 厚膜チップ抵抗器, 2012サイズ, 0.125W, 22Ω, ±1%",,61
+12,J2,GCT_USB4105GFA120,1,USB4105GFA120,DigiKey,2073-USB4105-GF-A-120CT-ND,10,CONN RCP USB2.0 TYP C 24P SMD RA ,,1151
+13,F1,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,500m,DigiKey,507-1799-1-ND,10,PTC RESET FUSE 24V 250MA 1206 ,,246
+14,SW18,SW_SPST_SKQG_WithStem,1,SW_Push,DigiKey,4809-SKQGADE010CT-ND,5,SWITCH TACTILE SPST-NO 0.05A 12V ,,520
+15,"C6,C5",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,22pF,,,,,,
+16,J1,PinHeader_2x03_P2.54mm_Vertical,1,AVR-ISP-6,,,,,,
+17,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,1,16MHz,DigiKey,SER4069CT-ND,5,CRYSTAL 16.0000MHZ 9PF SMD ,,350
