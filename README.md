@@ -20,10 +20,10 @@ Matrix position annotated version (also without label position information as th
 [{w:1.25},"4,0",{w:1.25},"4,1",{w:1.25},"4,2",{w:6.25},"4,5","4,9","4,10","4,11","4,12","4,13","4,14"]
 ```
 
-Find in proper json format in `hmkb64alps.json`.
+Find in proper json format in `hmkb65alps.json`.
 The corresponding **annotated** (i.e. which key goes where in the matrix) in
 [kle-serial](https://github.com/ijprest/kle-serial) format can be found in
-`hmkb64alps-annotated_kle-serial.json` (converted using
+`hmkb65alps-annotated_kle-serial.json` (converted using
 [this](https://adamws.github.io/kle-serial/)).
 
 ## PCB
@@ -95,12 +95,12 @@ or [keyboard-tools.xyz/kle-converter](http://keyboard-tools.xyz/kle-converter)
 In any case, the layout file must be one where the keys in the keyboard layout
 editor are annotated using labels as `row,col` to designate where they will be
 in the matrix.
-Find annotated layout in `hmkb64alps-annotated.json`
+Find annotated layout in `hmkb65alps-annotated.json`
 
 **TLDR**: 
 ```
 cd kicad-kbplacer
-hatch run tools:layout2schematic -in ../hmkb64alps-annotated-converted.json -out ../pcb/hmkb64alps-matrix.kicad_sch
+hatch run tools:layout2schematic -in ../hmkb65alps-annotated-converted.json -out ../pcb/hmkb65alps-matrix.kicad_sch
 ```
 Creates the base matrix schematic which I then manually edited to fit my
 preferences.
@@ -121,7 +121,7 @@ adjust the longer ones (way easier than trying to figure out which switch was
 where in the matrix.)
 
 When running the plugin point *Keyboard layout file* to
-`../hmkb64alps-annotated-converted.json` (or wherever the layout in the correct
+`../hmkb65alps-annotated-converted.json` (or wherever the layout in the correct
 format is).
 With the MX-Alps hybrid footprints the diode position must be adjusted, as
 otherwise it is too close to the holes in the PCB which is not good to begin

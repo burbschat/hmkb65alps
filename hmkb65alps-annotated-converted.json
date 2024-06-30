@@ -3,7 +3,7 @@
     "author": "burbschat",
     "backcolor": "#eeeeee",
     "background": null,
-    "name": "hmkb64alps",
+    "name": "hmkb65alps",
     "notes": "",
     "radii": "",
     "switchBrand": "",
@@ -14,13 +14,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "~",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "`"
+        "0,0"
       ],
       "textColor": [],
       "textSize": [],
@@ -51,13 +45,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "!",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "1"
+        "0,1"
       ],
       "textColor": [],
       "textSize": [],
@@ -88,13 +76,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "@",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "2"
+        "0,2"
       ],
       "textColor": [],
       "textSize": [],
@@ -125,13 +107,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "#",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "3"
+        "0,3"
       ],
       "textColor": [],
       "textSize": [],
@@ -162,13 +138,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "$",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "4"
+        "0,4"
       ],
       "textColor": [],
       "textSize": [],
@@ -199,13 +169,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "%",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "5"
+        "0,5"
       ],
       "textColor": [],
       "textSize": [],
@@ -236,13 +200,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "^",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "6"
+        "0,6"
       ],
       "textColor": [],
       "textSize": [],
@@ -273,13 +231,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "&",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "7"
+        "0,7"
       ],
       "textColor": [],
       "textSize": [],
@@ -310,13 +262,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "*",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "8"
+        "0,8"
       ],
       "textColor": [],
       "textSize": [],
@@ -347,13 +293,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "(",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "9"
+        "0,9"
       ],
       "textColor": [],
       "textSize": [],
@@ -384,13 +324,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        ")",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "0"
+        "0,10"
       ],
       "textColor": [],
       "textSize": [],
@@ -421,13 +355,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "_",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "-"
+        "0,11"
       ],
       "textColor": [],
       "textSize": [],
@@ -458,13 +386,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "+",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "="
+        "0,12"
       ],
       "textColor": [],
       "textSize": [],
@@ -495,7 +417,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Backspace"
+        "0,13"
       ],
       "textColor": [],
       "textSize": [],
@@ -525,7 +447,9 @@
     },
     {
       "color": "#cccccc",
-      "labels": [],
+      "labels": [
+        "0,14"
+      ],
       "textColor": [],
       "textSize": [],
       "default": {
@@ -555,7 +479,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Tab"
+        "1,0"
       ],
       "textColor": [],
       "textSize": [],
@@ -586,7 +510,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Q"
+        "1,1"
       ],
       "textColor": [],
       "textSize": [],
@@ -617,7 +541,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "W"
+        "1,2"
       ],
       "textColor": [],
       "textSize": [],
@@ -648,7 +572,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "E"
+        "1,3"
       ],
       "textColor": [],
       "textSize": [],
@@ -679,7 +603,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "R"
+        "1,4"
       ],
       "textColor": [],
       "textSize": [],
@@ -710,7 +634,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "T"
+        "1,5"
       ],
       "textColor": [],
       "textSize": [],
@@ -741,7 +665,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Y"
+        "1,6"
       ],
       "textColor": [],
       "textSize": [],
@@ -772,7 +696,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "U"
+        "1,7"
       ],
       "textColor": [],
       "textSize": [],
@@ -803,7 +727,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "I"
+        "1,8"
       ],
       "textColor": [],
       "textSize": [],
@@ -834,7 +758,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "O"
+        "1,9"
       ],
       "textColor": [],
       "textSize": [],
@@ -865,7 +789,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "P"
+        "1,10"
       ],
       "textColor": [],
       "textSize": [],
@@ -896,13 +820,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "{",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "["
+        "1,11"
       ],
       "textColor": [],
       "textSize": [],
@@ -933,13 +851,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "}",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "]"
+        "1,12"
       ],
       "textColor": [],
       "textSize": [],
@@ -970,13 +882,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "|",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "\\"
+        "1,13"
       ],
       "textColor": [],
       "textSize": [],
@@ -1006,7 +912,9 @@
     },
     {
       "color": "#cccccc",
-      "labels": [],
+      "labels": [
+        "1,14"
+      ],
       "textColor": [],
       "textSize": [],
       "default": {
@@ -1036,7 +944,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Caps Lock"
+        "2,0"
       ],
       "textColor": [],
       "textSize": [],
@@ -1067,7 +975,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "A"
+        "2,1"
       ],
       "textColor": [],
       "textSize": [],
@@ -1098,7 +1006,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "S"
+        "2,2"
       ],
       "textColor": [],
       "textSize": [],
@@ -1129,7 +1037,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "D"
+        "2,3"
       ],
       "textColor": [],
       "textSize": [],
@@ -1160,7 +1068,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "F"
+        "2,4"
       ],
       "textColor": [],
       "textSize": [],
@@ -1191,7 +1099,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "G"
+        "2,5"
       ],
       "textColor": [],
       "textSize": [],
@@ -1222,7 +1130,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "H"
+        "2,6"
       ],
       "textColor": [],
       "textSize": [],
@@ -1253,7 +1161,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "J"
+        "2,7"
       ],
       "textColor": [],
       "textSize": [],
@@ -1284,7 +1192,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "K"
+        "2,8"
       ],
       "textColor": [],
       "textSize": [],
@@ -1315,7 +1223,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "L"
+        "2,9"
       ],
       "textColor": [],
       "textSize": [],
@@ -1346,13 +1254,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        ":",
-        null,
-        null,
-        null,
-        null,
-        null,
-        ";"
+        "2,10"
       ],
       "textColor": [],
       "textSize": [],
@@ -1383,13 +1285,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "\"",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "'"
+        "2,11"
       ],
       "textColor": [],
       "textSize": [],
@@ -1420,7 +1316,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Enter"
+        "2,13"
       ],
       "textColor": [],
       "textSize": [],
@@ -1450,7 +1346,9 @@
     },
     {
       "color": "#cccccc",
-      "labels": [],
+      "labels": [
+        "2,14"
+      ],
       "textColor": [],
       "textSize": [],
       "default": {
@@ -1480,7 +1378,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Shift"
+        "3,0"
       ],
       "textColor": [],
       "textSize": [],
@@ -1511,7 +1409,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Z"
+        "3,1"
       ],
       "textColor": [],
       "textSize": [],
@@ -1542,7 +1440,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "X"
+        "3,2"
       ],
       "textColor": [],
       "textSize": [],
@@ -1573,7 +1471,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "C"
+        "3,3"
       ],
       "textColor": [],
       "textSize": [],
@@ -1604,7 +1502,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "V"
+        "3,4"
       ],
       "textColor": [],
       "textSize": [],
@@ -1635,7 +1533,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "B"
+        "3,5"
       ],
       "textColor": [],
       "textSize": [],
@@ -1666,7 +1564,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "N"
+        "3,6"
       ],
       "textColor": [],
       "textSize": [],
@@ -1697,7 +1595,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "M"
+        "3,7"
       ],
       "textColor": [],
       "textSize": [],
@@ -1728,13 +1626,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "<",
-        null,
-        null,
-        null,
-        null,
-        null,
-        ","
+        "3,8"
       ],
       "textColor": [],
       "textSize": [],
@@ -1765,13 +1657,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        ">",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "."
+        "3,9"
       ],
       "textColor": [],
       "textSize": [],
@@ -1802,13 +1688,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "?",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "/"
+        "3,10"
       ],
       "textColor": [],
       "textSize": [],
@@ -1839,7 +1719,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Shift"
+        "3,12"
       ],
       "textColor": [],
       "textSize": [],
@@ -1869,7 +1749,9 @@
     },
     {
       "color": "#cccccc",
-      "labels": [],
+      "labels": [
+        "3,13"
+      ],
       "textColor": [],
       "textSize": [],
       "default": {
@@ -1898,7 +1780,9 @@
     },
     {
       "color": "#cccccc",
-      "labels": [],
+      "labels": [
+        "3,14"
+      ],
       "textColor": [],
       "textSize": [],
       "default": {
@@ -1928,7 +1812,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Ctrl"
+        "4,0"
       ],
       "textColor": [],
       "textSize": [],
@@ -1959,7 +1843,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Win"
+        "4,1"
       ],
       "textColor": [],
       "textSize": [],
@@ -1990,7 +1874,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Alt"
+        "4,2"
       ],
       "textColor": [],
       "textSize": [],
@@ -2020,7 +1904,9 @@
     },
     {
       "color": "#cccccc",
-      "labels": [],
+      "labels": [
+        "4,5"
+      ],
       "textColor": [],
       "textSize": [],
       "default": {
@@ -2050,7 +1936,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Alt"
+        "4,9"
       ],
       "textColor": [],
       "textSize": [],
@@ -2081,7 +1967,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Fn"
+        "4,10"
       ],
       "textColor": [],
       "textSize": [],
@@ -2112,7 +1998,7 @@
     {
       "color": "#cccccc",
       "labels": [
-        "Ctrl"
+        "4,11"
       ],
       "textColor": [],
       "textSize": [],
@@ -2142,7 +2028,9 @@
     },
     {
       "color": "#cccccc",
-      "labels": [],
+      "labels": [
+        "4,12"
+      ],
       "textColor": [],
       "textSize": [],
       "default": {
@@ -2171,7 +2059,9 @@
     },
     {
       "color": "#cccccc",
-      "labels": [],
+      "labels": [
+        "4,13"
+      ],
       "textColor": [],
       "textSize": [],
       "default": {
@@ -2200,7 +2090,9 @@
     },
     {
       "color": "#cccccc",
-      "labels": [],
+      "labels": [
+        "4,14"
+      ],
       "textColor": [],
       "textSize": [],
       "default": {

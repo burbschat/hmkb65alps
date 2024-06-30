@@ -315,7 +315,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/0b11b198-7e19-44fa-8660-2555e7236d74")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -572,7 +572,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/9a51d3d4-0e62-498e-92d2-d9d0a9310f12")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -829,7 +829,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/ac6dfa9a-36cc-4128-a040-004974703e04")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -1086,7 +1086,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/82c43ae6-529b-4afc-b250-9e8d276d97a8")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -1345,7 +1345,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d43a74c8-57a6-4db6-b49a-280d1b5b3025")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -1553,7 +1553,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/714837af-8e4e-4f8a-9f7b-892207b1f7cf")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -1810,7 +1810,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/160903c7-2539-4fd7-abb0-5b5346aecdd5")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -2067,7 +2067,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/41da513e-e3c4-44d4-bedd-340b1b133f5b")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -16.66875 9.525)
@@ -2324,7 +2324,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/419bb69d-3d50-44fb-9b8c-d84e0c5ffc97")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -2581,7 +2581,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/ec424524-8760-45ba-b304-e59b122a6610")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -11.90625 9.525)
@@ -2838,7 +2838,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/884367e8-828b-49b1-acaf-33a26712125c")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -11.90625 9.525)
@@ -3095,7 +3095,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/f4a5a514-0e80-42e5-8ac8-cbe1e8369e47")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -21.43125 9.525)
@@ -3380,7 +3380,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/63ff3fb3-d70e-4ee8-9131-b673965dd7ad")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -3637,7 +3637,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/d53e785d-7b04-4470-925b-9ef4ce9c14cb")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -3894,7 +3894,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/87f628c9-647f-469c-845c-07c52512ed5b")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -4151,7 +4151,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/719a75c7-258f-4437-9a69-2f29f8c42103")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -4408,7 +4408,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/7df3e434-2d1e-4c08-85a3-b894f564eda2")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -4665,7 +4665,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/3d502bc1-8b5f-4742-b690-588fbba7f154")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -4922,7 +4922,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/b6faa187-ec9b-46b8-8ec3-714537955532")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -5179,7 +5179,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/15b3106d-245e-4d69-9521-e57a4931fd54")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -11.90625 9.525)
@@ -5439,7 +5439,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/68a8beec-54b2-4e60-8c2e-99b11892ba51")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -5647,7 +5647,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/85400be1-6dbb-4076-8485-018d83f38d95")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -5904,7 +5904,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/5ea52cd5-448d-47cf-9cd3-6b11dafd9e09")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -6161,7 +6161,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/1ae53737-22ae-405a-8594-3801e3e8a10b")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -6418,7 +6418,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/e4cc41b9-0c52-443c-b7f3-f348bc5b0d86")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -6675,7 +6675,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/4892c56b-49f5-4226-90f4-49cdbdf988bd")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -6935,7 +6935,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ba2d6902-b819-43f4-8a13-77b91985dc18")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -7143,7 +7143,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/c25a8bc5-4677-437b-8813-2e9a4ddb524e")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -7400,7 +7400,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/6c73a464-efa3-46b9-9924-318b441d3f22")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -7657,7 +7657,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/dfc54658-3a77-4cfd-be34-e2523cced4d3")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -7914,7 +7914,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/afde5b51-e12a-4757-8744-14e59de39fe1")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -8171,7 +8171,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/ba06e5a1-9721-4edc-9554-882aae6171dd")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -8430,7 +8430,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2733c4df-3fd4-4f4f-bf1d-aa083d036d5f")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -8638,7 +8638,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/009de295-f316-4134-8afe-2a7cb7cd2cfd")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -8895,7 +8895,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/04582d79-f33f-4647-a2b9-97c5dd8374d3")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -9155,7 +9155,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/73a102ab-a793-4271-a155-0ff54e253a88")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -9363,7 +9363,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/cc736da9-4f24-4fff-a2b2-b8015bb8de3f")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -9620,7 +9620,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/a97fdb6b-f343-4f98-bcb6-2dd2741380d2")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -9880,7 +9880,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3c4bb5bc-1c2f-4377-aa07-f24206bff6e0")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -10088,7 +10088,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/b08636a4-cdce-412e-8f71-75db26950402")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -10345,7 +10345,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/282400d3-55b6-4244-b357-1742933c4793")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -10602,7 +10602,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/ef640dc6-418f-48ab-9498-68bcf65af7c5")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -10859,7 +10859,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/02e1f408-82b6-41aa-9443-ae821d1d486d")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -11116,7 +11116,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/e9a54b21-2878-428c-b2fc-3a6241fbec04")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -19.05 9.525)
@@ -11401,7 +11401,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/72a1692b-5b67-40e3-b959-fed823a37b5b")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -11658,7 +11658,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/dbe3e961-8f65-4b61-b6f1-e0bf78c3b2d1")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -11915,7 +11915,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/ecb7f6c8-54ac-4ccd-a486-6b731c6898bb")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -12172,7 +12172,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/3d425e21-e90e-42e3-aad4-ac4627b57a8d")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -12429,7 +12429,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/df0b5e31-1ca7-45d2-a4a4-91158dfc9c53")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -12686,7 +12686,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/3c86c4c3-9df9-4031-ab4a-edb1300a3671")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -16.66875 9.525)
@@ -12943,7 +12943,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/0fd9ae46-5bcd-4fb5-93a2-f41cfb02f6ce")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -13200,7 +13200,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/c6162508-394f-4e70-af84-c7b62b9d4379")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -13457,7 +13457,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/171e0785-0f40-487e-8483-3475b6617c94")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -13714,7 +13714,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/4a181be2-78ee-4562-ad3b-e3f9c402a07e")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -13971,7 +13971,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/b9f079c7-db6e-448c-a5a6-289fbdf7a0e0")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -14228,7 +14228,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/95a28a61-58d6-454e-ada3-a562e6272cb2")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -14485,7 +14485,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/4f0c618c-a727-45df-b26e-4ef932d717a8")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -14742,7 +14742,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/04e637dd-0485-48a3-b1bc-77a788c8c1c0")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -14999,7 +14999,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/14f13d45-7421-4a9c-bdd2-01d3550c45b0")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -15256,7 +15256,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/89ecd7f2-a147-48cb-ae0c-aeb8ea99b5c9")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -14.2875 9.525)
@@ -15513,7 +15513,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/da0e13f6-d84b-464a-8cbc-db7901aa622e")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -15770,7 +15770,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/9aae3358-6114-4a13-829f-cc1501f264bb")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -16030,7 +16030,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/850b1027-76c8-48f1-a1ae-be91d2bc1b92")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -16238,7 +16238,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/0867f88a-2b61-4145-a6cb-a502682476b0")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -59.53125 9.525)
@@ -16523,7 +16523,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/01602b74-d720-4278-b81f-59a82c6f8410")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -16780,7 +16780,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/cff497be-d756-46af-8916-0f17382ae388")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -14.2875 9.525)
@@ -17037,7 +17037,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/65313298-3207-4d10-b5b7-ecf112eef581")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -21.43125 9.525)
@@ -17322,7 +17322,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/0c4b643f-c168-422c-924d-0103880ef167")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -17579,7 +17579,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/10c3250a-2de5-4170-9a72-731aa591c6e3")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -17836,7 +17836,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/ac5a9a89-f029-4e65-b4ff-cbddbb2b9a0d")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -18093,7 +18093,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/fa209f8c-853a-431e-9ab8-ee0af155cdd4")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -18350,7 +18350,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/f2078b0b-c60a-46e1-bd6d-4b1b40d1cdb4")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -18607,7 +18607,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/f03ae7ed-bbba-41ab-9f36-fc0ff4178fea")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -18864,7 +18864,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/51bbe30f-5911-4859-931d-d8dd32d6f04a")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -19121,7 +19121,7 @@
 		)
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/250ad817-4ab4-416e-ad37-734d734f9109")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.525 9.525)
@@ -19414,7 +19414,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/9c5e7155-7e6c-43f1-bdff-d4f262180f75")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -19741,7 +19741,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/519dc7ac-bee6-4578-a14d-9cb79ed824f9")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -20040,7 +20040,7 @@
 		(property ki_fp_filters "Crystal*")
 		(path "/c70dabf1-e857-4aa4-9cea-29513a078c9d")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.7 -2.25)
@@ -20313,7 +20313,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/440a38c6-0cdf-4b95-a37e-ea1eb2da0269")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -20640,7 +20640,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/65055315-4db7-4514-97c3-d58788e91d3c")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -20967,7 +20967,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/80b9d117-411b-4632-a9a2-7f36674a11a9")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -21294,7 +21294,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/550c5b82-01a9-4063-9ee3-2ce89b48f4fd")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -21621,7 +21621,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/9a7eb8b6-299d-429f-a9d3-d57af690954c")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -21948,7 +21948,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/b80f9ed2-cee9-4410-ad21-64fb07fb339e")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -22275,7 +22275,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/b845e8e1-3824-40ef-b7e2-bfdb89bc1c86")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -22602,7 +22602,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/a8adb28a-5e4d-4260-b3ed-9c21c204d205")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -22929,7 +22929,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/af06dba7-09e8-49ca-8216-64e1c2cbcc3f")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -23256,7 +23256,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/aa5bd3a7-4313-4768-a7f8-88a1bd5156e6")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -23583,7 +23583,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/08b9a801-b5f6-4e1a-b7fb-bb2aa1a0bf8f")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -23910,7 +23910,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/4c118831-5608-4273-a050-30e9e7af4abb")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -24209,7 +24209,7 @@
 		(property ki_fp_filters "TQFP*10x10mm*P0.8mm*")
 		(path "/b0c92b9b-0a64-4d88-b8dc-bb332b21e4e4")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -5.175 -4.5)
@@ -24914,7 +24914,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/b4fedc78-6de1-4c4b-b78a-3629ace4b1da")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -25213,7 +25213,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ce71ff7e-1c80-4b7d-8d0a-b39317e8136e")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.261252 0.735)
@@ -25457,7 +25457,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/fc9326c2-c828-41aa-9dc0-0ffb1d273b79")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -25784,7 +25784,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/7aea977c-9c78-40b1-b305-aed20e600b48")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -26111,7 +26111,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/a1a1e003-21b4-4c75-8077-5522c8672893")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -26438,7 +26438,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/b31b7c90-c7f4-4942-bbab-52c016c9293c")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -26765,7 +26765,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/47f08d45-d55d-491b-b226-bde31cfcfe9d")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -27092,7 +27092,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/1b62e9b5-0c26-44ed-9111-71421b0eabb4")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -27419,7 +27419,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/5d363eff-7d4e-4148-babf-c83aed7e19d4")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -27746,7 +27746,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/6782712c-3205-461f-aa8e-6950b53e885e")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -28045,7 +28045,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f86dfde1-5746-4a12-b9ab-cce5fb74ec57")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 0.735)
@@ -28290,7 +28290,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/409e9256-ec0e-4d6e-8f0c-886095dd1f9e")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -28617,7 +28617,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/53cf143f-1f99-4b75-b89b-b36ce895ee20")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -28944,7 +28944,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/3f5e67f0-450b-49cf-abd7-2b904b41356e")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -29271,7 +29271,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/b53d4d86-1fad-4c67-a68c-bf0fd84f875f")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -29598,7 +29598,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/12a10b1e-8315-4d4c-9e84-0a909729871a")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -29925,7 +29925,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/3d05e5c1-2f41-4f83-ac52-ae52daf6e299")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -30223,7 +30223,7 @@
 		)
 		(path "/b5e19ae0-1bf7-4870-b5ab-95960c277c0f")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.45 -2.72)
@@ -30777,7 +30777,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/d31b8e4a-bb97-4881-9767-4ab4fc93b9b9")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -31104,7 +31104,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/7db9dc79-ca36-4e5a-90d3-3f374883b63c")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -31403,7 +31403,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8049f759-0196-4b33-b26e-f70067d7c326")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.261252 -0.735)
@@ -31648,7 +31648,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/4d17d981-ced8-4a06-a700-d71305ab7e58")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -31946,7 +31946,7 @@
 		(property ki_fp_filters "IDC?Header*2x03* Pin?Header*2x03*")
 		(path "/cfdf1124-afa9-4ca1-b009-84d4949a5bf7")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.83 5.21)
@@ -32460,7 +32460,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/de6ccb76-428e-4b5a-9780-20866bfba0ab")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -32787,7 +32787,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/dbc027ff-0424-4694-8e00-1a455c1d4329")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -33114,7 +33114,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/cb73a593-ecd8-4c6c-b395-8906526abe83")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -33441,7 +33441,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/f07d3d24-26ae-4b6f-a2a9-9cb661422bed")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -33768,7 +33768,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/7996ae6d-6ce2-4077-bba5-a59c957a3797")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -34095,7 +34095,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/f56f137d-7313-43b5-b757-95624fc53023")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -34393,7 +34393,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dbb0e0c0-0d9f-403c-8ef0-ce567f7dd573")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 -0.735)
@@ -34638,7 +34638,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/c5d6afd5-1168-455a-99af-91ae63c2cc8a")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -34936,7 +34936,7 @@
 		(property ki_fp_filters "SOT?143*")
 		(path "/e6dba002-fac1-46fd-a1bf-a5a6ac46340e")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.65 -1.56)
@@ -35225,7 +35225,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/15e0fe0a-e8da-49f6-91d8-733c56199fbb")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -35552,7 +35552,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/833e0e51-58d7-40cb-a668-8f327f4acd30")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 1)
@@ -35879,7 +35879,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/a3987741-a951-42bd-9fa6-3d1160f29163")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -36206,7 +36206,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/49f4b548-ad75-498f-b03e-4c966c1f4f6b")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -36533,7 +36533,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/9699a6b9-6a97-4c82-b72c-36712d922bd8")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -36860,7 +36860,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/32c57898-de0b-4fc8-a035-708dcc62d7e8")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -37187,7 +37187,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/f638d426-cc50-47ff-8607-4f08def4477c")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -37514,7 +37514,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/3c69eb45-a135-485f-bc7b-860fb467d03d")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -37841,7 +37841,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/9de72aad-02a0-4f2e-bea2-b22144324c15")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -38168,7 +38168,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/637d9f88-ab6c-4808-a78b-6ac3b13d2099")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -38466,7 +38466,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7d2f88f2-be7e-4512-944b-90f765615a78")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 -0.735)
@@ -38711,7 +38711,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/f8818088-b910-4aac-ab53-711f4a9d5735")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -39037,7 +39037,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/8b1f2a1f-23ca-4641-906e-a6f83c45fac9")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 1)
@@ -39364,7 +39364,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/162ff577-4e29-40be-99a7-500a0556a843")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -39691,7 +39691,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/0016db94-74b8-4aca-b3ce-382f87e72d41")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -40018,7 +40018,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/75d99f1e-c253-4d45-82e2-aae29b87e4cf")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -40345,7 +40345,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/00aa563b-54e8-4d9a-a59b-d28f55cd7d4a")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -40672,7 +40672,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/0c1cc71d-2bbf-435e-ab8d-af83c6c4bfac")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -40999,7 +40999,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/c7b4c0b5-8d34-4d53-bd4a-046974722ed2")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -41326,7 +41326,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/41ff7306-5572-4931-955d-5ee439acd2b4")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -41653,7 +41653,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/6518d002-0bf5-498a-b3da-c283b0267454")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -41980,7 +41980,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/7b867631-87c8-4b3b-8d27-48ec8623c367")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -42278,7 +42278,7 @@
 		(property ki_fp_filters "*polyfuse* *PTC*")
 		(path "/11829eb7-8965-4610-9c96-3c23d51077b9")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 -0.91)
@@ -42495,7 +42495,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/fc993201-4654-4db4-87e4-7866bcdd1763")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.261252 0.735)
@@ -42709,7 +42709,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/a08e8a90-24ed-4958-97a2-1571722a9d3b")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.47 -2.6)
@@ -43172,7 +43172,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/346b1e9a-d3b3-49a0-8f50-74e7b8d126a6")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -43499,7 +43499,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/976f3395-ecea-4d65-9033-4801c9c0c108")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -43826,7 +43826,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/ed6bf2b0-d40b-4166-9af0-1223d12f003c")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -44153,7 +44153,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/ba930f24-492b-41a0-8587-08b0f8212910")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -44480,7 +44480,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/05a0d4a3-f870-49d5-a94a-aba6627c28c5")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -44807,7 +44807,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/95267493-50c5-48eb-9a7e-2782e5b93d14")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -45134,7 +45134,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/999266ca-cb44-4009-aab9-b8eb3df0ca87")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -45433,7 +45433,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/54628417-3ee5-4978-8e20-c0d7409f9f34")
 		(sheetname "Root")
-		(sheetfile "hmkb64alps.kicad_sch")
+		(sheetfile "hmkb65alps.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.261252 -0.735)
@@ -45678,7 +45678,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1d84eed-7b2b-4dc4-8f5a-f2e0a7b5fbf2/3863ef2a-fa3f-4469-90d4-c62490666ba9")
 		(sheetname "matrix")
-		(sheetfile "hmkb64alps-matrix.kicad_sch")
+		(sheetfile "hmkb65alps-matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)

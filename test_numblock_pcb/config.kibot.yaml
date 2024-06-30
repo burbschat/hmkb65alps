@@ -1,0 +1,16 @@
+kibot:
+  version: 1
+
+
+# global:
+# Possibly filter some warnings
+#   filters:
+#   - number: 1007
+#   - number: 1015
+#   - number: 58
+#   - number: 107
+
+outputs:
+  - name: interactive_html_bom 
+    type: ibom 
+    dir: ibom
