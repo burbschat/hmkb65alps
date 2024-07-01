@@ -62,15 +62,6 @@ alternative to the dirt cheep `HRO` mentioned above.
 `GCT` also has very well structured documentation and links to footprints and 3d models on their website.
 
 
-
-## Plate
-### Design
-[ai03 Plate Generator](https://kbplate.ai03.com/) seems to be a well made modern solution (repository [here](https://github.com/ai03-2725/yet-another-keyboard-builder))!
-Probably prefer using this over [what used to be the standard tool(?)](http://builder.swillkb.com/) to get plate hole locations
-(select no outline, as the correct one is not available there), then manually
-add the correct outline from the MX plate files distributed on the HMKB
-discord.
-
 #### `kbplacer`
 Used this [Kicad Plugin](https://github.com/adamws/kicad-kbplacer) for helping
 with schematic/layout generation.
@@ -138,11 +129,46 @@ not seem to work for open ended tracks.
 Set approximately to what JLCPCB should be able to do withouth problems.
 
 
+## Plate
+### Design
+[ai03 Plate Generator](https://kbplate.ai03.com/) seems to be a well made modern solution (repository [here](https://github.com/ai03-2725/yet-another-keyboard-builder))!
+Probably prefer using this over [what used to be the standard tool(?)](http://builder.swillkb.com/) to get plate hole locations
+(select no outline, as the correct one is not available there), then manually
+add the correct outline from the MX plate files distributed on the HMKB
+discord.
+**Holdup**, on closer inspection `swillkb` seems to provide [much more features](http://builder-docs.swillkb.com/features/)!
+In fact one can adjust the stabilizers for specific keys using special attributes in the layout definition.
+This one for example overrides the spacebar stabilizer to be of Cherry + Costar type by using `{a:7,w:6.25, _s:1}`.
+```
+["~\n`","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{w:2},"Backspace",{a:7},""],
+[{a:4,w:1.5},"Tab","Q","W","E","R","T","Y","U","I","O","P","{\n[","}\n]",{w:1.5},"|\n\\",{a:7},""],
+[{a:4,w:1.75},"Caps Lock","A","S","D","F","G","H","J","K","L",":\n;","\"\n'",{w:2.25},"Enter",{a:7},""],
+[{a:4,w:2.25},"Shift","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:1.75},"Shift",{a:7},"",""],
+[{a:4,w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:7,w:6.25, _s:1},"",{a:4},"Alt","Fn","Ctrl",{a:7},"","",""]
+```
+This is exactly what I need for the Tai-Hao Keycaps which have cherry type stabilizers on only the spacebar.
+Seems like one can also further [specify the outline](http://builder-docs.swillkb.com/features/#custom-polygons).
+If possible, defining the whole plate programatically would be cool.
+Actually, we could get away without using the web interface alltogether by using [`KAD`](https://github.com/swill/kad),
+the library powering [builder.swillkb.com](http://builder.swillkb.com/).
+
+### Material
+* Try lasercutting ~1.6mm plate on the lasercutter that is avaiable at my
+university (even though it is not rated to cut metal this thick)
+    * Have to source metal plates which might not be cheap in small quantities
+* Order FR4 plate (i.e. just a PCB). This seems to be very reasonably priced.
+Getting FR4 stock cheaper and cutting on the lasercutter appeared difficult
+(could not find very cheap FR4 stock).
+    * Ordering a PCB in plate size seems to cost around 3000JPY. One could also
+    get an aluminum PCB for just a little more, but I don't know if an aluminum
+    plate is a good idea. FR4 appeared much more sturdy to me but I did not
+    make a direct comparison.
 
 ### Laser Cutting Services
 * [sculpteo](https://www.sculpteo.com/)
 * [ponoko](https://www.ponoko.com/)
-* [株式会社かねよし]https://www.kaneyoshidesu.co.jp
+* [株式会社かねよし](https://www.kaneyoshidesu.co.jp)
+* [laserboost](https://www.laserboost.com/) seems reasonable but is based in Europe (Spain it seems) so shiping ends up expensive (~50 Euros)
 
 ## References
 ### PCB Design
