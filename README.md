@@ -136,6 +136,7 @@ Probably prefer using this over [what used to be the standard tool(?)](http://bu
 (select no outline, as the correct one is not available there), then manually
 add the correct outline from the MX plate files distributed on the HMKB
 discord.
+
 **Holdup**, on closer inspection `swillkb` seems to provide [much more features](http://builder-docs.swillkb.com/features/)!
 In fact one can adjust the stabilizers for specific keys using special attributes in the layout definition.
 This one for example overrides the spacebar stabilizer to be of Cherry + Costar type by using `{a:7,w:6.25, _s:1}`.
@@ -151,6 +152,36 @@ Seems like one can also further [specify the outline](http://builder-docs.swillk
 If possible, defining the whole plate programatically would be cool.
 Actually, we could get away without using the web interface alltogether by using [`KAD`](https://github.com/swill/kad),
 the library powering [builder.swillkb.com](http://builder.swillkb.com/).
+
+**Holdup**, but `swillkb` does not do rounded corners as I might need for a PCB plate.
+So I forked ai03 Plate Generator (aka yet-another-keyboard-builder) and 
+[modified the code](https://github.com/burbschat/yet-another-keyboard-builder/tree/key_specific_overrides) 
+with my essentially non existent javascript knowledge, which actually worked!
+It's probably not pretty or good practice though, but good enough for what I need for now.
+
+Here is the layout that should fit for stabiliziers for the Tai-Hao Alps keycaps:
+```
+["~\n`","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{w:2},"Backspace",{a:7},""],
+[{a:4,w:1.5},"Tab","Q","W","E","R","T","Y","U","I","O","P","{\n[","}\n]",{w:1.5},"|\n\\",{a:7},""],
+[{a:4,w:1.75},"Caps Lock","A","S","D","F","G","H","J","K","L",":\n;","\"\n'",{w:2.25},"Enter",{a:7},""],
+[{a:4,w:2.25},"Shift","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:1.75},"Shift",{a:7},"",""],
+[{a:4,w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:7,w:6.25, _s:"mx-basic"},"",{a:4},"Alt","Fn","Ctrl",{a:7},"","",""]
+```
+
+I also generated the plate with flipped Alps stabilizers as 
+```
+["~\n`","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{w:2,_rs:180},"Backspace",{a:7},""],
+[{a:4,w:1.5},"Tab","Q","W","E","R","T","Y","U","I","O","P","{\n[","}\n]",{w:1.5},"|\n\\",{a:7},""],
+[{a:4,w:1.75,_rs:180},"Caps Lock","A","S","D","F","G","H","J","K","L",":\n;","\"\n'",{w:2.25,_rs:180},"Enter",{a:7},""],
+[{a:4,w:2.25,_rs:180},"Shift","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:1.75,_rs:180},"Shift",{a:7},"",""],
+[{a:4,w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:7,w:6.25, _s:"mx-basic"},"",{a:4},"Alt","Fn","Ctrl",{a:7},"","",""]
+```
+and `alps-aek` instead of `mx-basic` for the spacebar which I then all composed in KiCad, which was possible
+as the cutouts do not overlap.
+This means that I do not have to worry about the orientation of the stabilizers (some Tai-Hao keycaps 
+seem to have them inversed) and can later decide if I want alps or Cherry stabilizers on the spacebar 
+(Tai-Hao keycaps support those on only the spacebar but there seem to also be adapters to use Alps stabilizers).
+
 
 ### Material
 * Try lasercutting ~1.6mm plate on the lasercutter that is avaiable at my
