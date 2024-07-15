@@ -4922,7 +4922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 44.45 31.75 0)
 			(effects
 				(font
@@ -5014,7 +5014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 118.11 43.18 0)
 			(effects
 				(font
@@ -5090,7 +5090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 107.95 52.07 0)
 			(effects
 				(font
@@ -5182,7 +5182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 41.91 63.5 0)
 			(effects
 				(font
@@ -5256,7 +5256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 105.41 83.82 0)
 			(effects
 				(font
@@ -5330,7 +5330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 41.91 83.82 0)
 			(effects
 				(font
@@ -5404,7 +5404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 54.61 22.86 0)
 			(effects
 				(font
@@ -5480,7 +5480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 44.45 113.03 0)
 			(effects
 				(font
@@ -5572,7 +5572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 92.71 104.14 0)
 			(effects
 				(font
@@ -5648,7 +5648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 69.85 52.07 0)
 			(effects
 				(font
@@ -5740,7 +5740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 207.01 83.82 0)
 			(effects
 				(font
@@ -5816,7 +5816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 158.75 72.39 0)
 			(effects
 				(font
@@ -5908,7 +5908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 67.31 83.82 0)
 			(effects
 				(font
@@ -5982,7 +5982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 207.01 43.18 0)
 			(effects
 				(font
@@ -6056,7 +6056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 130.81 43.18 0)
 			(effects
 				(font
@@ -6132,7 +6132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 196.85 31.75 0)
 			(effects
 				(font
@@ -6224,7 +6224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 143.51 43.18 0)
 			(effects
 				(font
@@ -6298,7 +6298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 41.91 104.14 0)
 			(effects
 				(font
@@ -6374,7 +6374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 44.45 92.71 0)
 			(effects
 				(font
@@ -6466,7 +6466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 156.21 63.5 0)
 			(effects
 				(font
@@ -6542,7 +6542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 69.85 31.75 0)
 			(effects
 				(font
@@ -6634,7 +6634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 92.71 43.18 0)
 			(effects
 				(font
@@ -6708,7 +6708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 143.51 22.86 0)
 			(effects
 				(font
@@ -6784,7 +6784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 57.15 92.71 0)
 			(effects
 				(font
@@ -6876,7 +6876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 41.91 43.18 0)
 			(effects
 				(font
@@ -6950,7 +6950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 54.61 63.5 0)
 			(effects
 				(font
@@ -7026,7 +7026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 171.45 52.07 0)
 			(effects
 				(font
@@ -7120,7 +7120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 133.35 72.39 0)
 			(effects
 				(font
@@ -7214,7 +7214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 107.95 31.75 0)
 			(effects
 				(font
@@ -7308,7 +7308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 82.55 92.71 0)
 			(effects
 				(font
@@ -7400,7 +7400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 29.21 63.5 0)
 			(effects
 				(font
@@ -7476,7 +7476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 146.05 31.75 0)
 			(effects
 				(font
@@ -7568,7 +7568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 207.01 104.14 0)
 			(effects
 				(font
@@ -7642,7 +7642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 181.61 22.86 0)
 			(effects
 				(font
@@ -7718,7 +7718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 31.75 72.39 0)
 			(effects
 				(font
@@ -7812,7 +7812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 133.35 52.07 0)
 			(effects
 				(font
@@ -7904,7 +7904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 80.01 43.18 0)
 			(effects
 				(font
@@ -7978,7 +7978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 181.61 83.82 0)
 			(effects
 				(font
@@ -8054,7 +8054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 31.75 113.03 0)
 			(effects
 				(font
@@ -8148,7 +8148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 120.65 92.71 0)
 			(effects
 				(font
@@ -8242,7 +8242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 209.55 72.39 0)
 			(effects
 				(font
@@ -8334,7 +8334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -8410,7 +8410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 146.05 52.07 0)
 			(effects
 				(font
@@ -8502,7 +8502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 156.21 43.18 0)
 			(effects
 				(font
@@ -8578,7 +8578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 57.15 113.03 0)
 			(effects
 				(font
@@ -8672,7 +8672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 82.55 31.75 0)
 			(effects
 				(font
@@ -8764,7 +8764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 54.61 43.18 0)
 			(effects
 				(font
@@ -8840,7 +8840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 95.25 92.71 0)
 			(effects
 				(font
@@ -8932,7 +8932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 29.21 22.86 0)
 			(effects
 				(font
@@ -9008,7 +9008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 146.05 113.03 0)
 			(effects
 				(font
@@ -9102,7 +9102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 95.25 52.07 0)
 			(effects
 				(font
@@ -9196,7 +9196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 196.85 92.71 0)
 			(effects
 				(font
@@ -9288,7 +9288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 168.91 63.5 0)
 			(effects
 				(font
@@ -9364,7 +9364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 209.55 92.71 0)
 			(effects
 				(font
@@ -9456,7 +9456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 41.91 22.86 0)
 			(effects
 				(font
@@ -9532,7 +9532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 133.35 92.71 0)
 			(effects
 				(font
@@ -9626,7 +9626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 171.45 72.39 0)
 			(effects
 				(font
@@ -9718,7 +9718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 29.21 83.82 0)
 			(effects
 				(font
@@ -9794,7 +9794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 57.15 31.75 0)
 			(effects
 				(font
@@ -9886,7 +9886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 92.71 63.5 0)
 			(effects
 				(font
@@ -9960,7 +9960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 181.61 104.14 0)
 			(effects
 				(font
@@ -10034,7 +10034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 130.81 22.86 0)
 			(effects
 				(font
@@ -10108,7 +10108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 105.41 22.86 0)
 			(effects
 				(font
@@ -10184,7 +10184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 95.25 72.39 0)
 			(effects
 				(font
@@ -10278,7 +10278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 133.35 31.75 0)
 			(effects
 				(font
@@ -10372,7 +10372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 107.95 72.39 0)
 			(effects
 				(font
@@ -10466,7 +10466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 158.75 52.07 0)
 			(effects
 				(font
@@ -10560,7 +10560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 184.15 113.03 0)
 			(effects
 				(font
@@ -10652,7 +10652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 80.01 83.82 0)
 			(effects
 				(font
@@ -10728,7 +10728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 184.15 52.07 0)
 			(effects
 				(font
@@ -10820,7 +10820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 105.41 63.5 0)
 			(effects
 				(font
@@ -10896,7 +10896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 31.75 52.07 0)
 			(effects
 				(font
@@ -10988,7 +10988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 67.31 63.5 0)
 			(effects
 				(font
@@ -11062,7 +11062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 130.81 83.82 0)
 			(effects
 				(font
@@ -11136,7 +11136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 54.61 104.14 0)
 			(effects
 				(font
@@ -11210,7 +11210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 29.21 43.18 0)
 			(effects
 				(font
@@ -11286,7 +11286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 44.45 52.07 0)
 			(effects
 				(font
@@ -11380,7 +11380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 95.25 113.03 0)
 			(effects
 				(font
@@ -11472,7 +11472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 143.51 83.82 0)
 			(effects
 				(font
@@ -11548,7 +11548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 158.75 31.75 0)
 			(effects
 				(font
@@ -11642,7 +11642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 44.45 72.39 0)
 			(effects
 				(font
@@ -11736,7 +11736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 95.25 31.75 0)
 			(effects
 				(font
@@ -11828,7 +11828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 143.51 104.14 0)
 			(effects
 				(font
@@ -11904,7 +11904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 120.65 72.39 0)
 			(effects
 				(font
@@ -11996,7 +11996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 92.71 83.82 0)
 			(effects
 				(font
@@ -12072,7 +12072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 171.45 113.03 0)
 			(effects
 				(font
@@ -12166,7 +12166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 146.05 92.71 0)
 			(effects
 				(font
@@ -12260,7 +12260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 158.75 113.03 0)
 			(effects
 				(font
@@ -12354,7 +12354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 158.75 92.71 0)
 			(effects
 				(font
@@ -12448,7 +12448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 196.85 113.03 0)
 			(effects
 				(font
@@ -12540,7 +12540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 156.21 83.82 0)
 			(effects
 				(font
@@ -12616,7 +12616,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 120.65 31.75 0)
 			(effects
 				(font
@@ -12708,7 +12708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 143.51 63.5 0)
 			(effects
 				(font
@@ -12782,7 +12782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 118.11 83.82 0)
 			(effects
 				(font
@@ -12858,7 +12858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 82.55 72.39 0)
 			(effects
 				(font
@@ -12950,7 +12950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 156.21 22.86 0)
 			(effects
 				(font
@@ -13024,7 +13024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 181.61 43.18 0)
 			(effects
 				(font
@@ -13100,7 +13100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 146.05 72.39 0)
 			(effects
 				(font
@@ -13194,7 +13194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 209.55 31.75 0)
 			(effects
 				(font
@@ -13288,7 +13288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 69.85 92.71 0)
 			(effects
 				(font
@@ -13380,7 +13380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 168.91 43.18 0)
 			(effects
 				(font
@@ -13456,7 +13456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 107.95 92.71 0)
 			(effects
 				(font
@@ -13550,7 +13550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 82.55 52.07 0)
 			(effects
 				(font
@@ -13642,7 +13642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 80.01 22.86 0)
 			(effects
 				(font
@@ -13716,7 +13716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 92.71 22.86 0)
 			(effects
 				(font
@@ -13792,7 +13792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 184.15 31.75 0)
 			(effects
 				(font
@@ -13884,7 +13884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 168.91 22.86 0)
 			(effects
 				(font
@@ -13960,7 +13960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 184.15 92.71 0)
 			(effects
 				(font
@@ -14052,7 +14052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 194.31 104.14 0)
 			(effects
 				(font
@@ -14128,7 +14128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 196.85 52.07 0)
 			(effects
 				(font
@@ -14222,7 +14222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 196.85 72.39 0)
 			(effects
 				(font
@@ -14314,7 +14314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 168.91 104.14 0)
 			(effects
 				(font
@@ -14388,7 +14388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 194.31 43.18 0)
 			(effects
 				(font
@@ -14464,7 +14464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 171.45 31.75 0)
 			(effects
 				(font
@@ -14556,7 +14556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 156.21 104.14 0)
 			(effects
 				(font
@@ -14630,7 +14630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 207.01 63.5 0)
 			(effects
 				(font
@@ -14706,7 +14706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 120.65 52.07 0)
 			(effects
 				(font
@@ -14798,7 +14798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 67.31 22.86 0)
 			(effects
 				(font
@@ -14874,7 +14874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 57.15 72.39 0)
 			(effects
 				(font
@@ -14966,7 +14966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 194.31 83.82 0)
 			(effects
 				(font
@@ -15040,7 +15040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 54.61 83.82 0)
 			(effects
 				(font
@@ -15114,7 +15114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 80.01 63.5 0)
 			(effects
 				(font
@@ -15188,7 +15188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 194.31 22.86 0)
 			(effects
 				(font
@@ -15262,7 +15262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 29.21 104.14 0)
 			(effects
 				(font
@@ -15336,7 +15336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 67.31 43.18 0)
 			(effects
 				(font
@@ -15412,7 +15412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 209.55 113.03 0)
 			(effects
 				(font
@@ -15504,7 +15504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 130.81 63.5 0)
 			(effects
 				(font
@@ -15578,7 +15578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 118.11 63.5 0)
 			(effects
 				(font
@@ -15654,7 +15654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 209.55 52.07 0)
 			(effects
 				(font
@@ -15746,7 +15746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 118.11 22.86 0)
 			(effects
 				(font
@@ -15820,7 +15820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 194.31 63.5 0)
 			(effects
 				(font
@@ -15896,7 +15896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 57.15 52.07 0)
 			(effects
 				(font
@@ -15990,7 +15990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 31.75 92.71 0)
 			(effects
 				(font
@@ -16084,7 +16084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 69.85 72.39 0)
 			(effects
 				(font
@@ -16176,7 +16176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 207.01 22.86 0)
 			(effects
 				(font
@@ -16252,7 +16252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode, small symbol"
 			(at 31.75 31.75 0)
 			(effects
 				(font
