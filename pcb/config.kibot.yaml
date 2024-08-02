@@ -24,10 +24,9 @@ preflight:
   drc:
     dont_stop: true
     format: HTML,RPT,JSON,CSV
-  # This PCB is not a real circuit so skip erc
-  # erc:
-  #   dont_stop: true
-  #   format: HTML,RPT,JSON,CSV
+  erc:
+    dont_stop: true
+    format: HTML,RPT,JSON,CSV
 
 outputs:
 - name: basic_excellon
