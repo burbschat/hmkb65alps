@@ -58,6 +58,11 @@ outputs:
   - layer: Edge.Cuts
     suffix: Edge_Cuts
     description: Board shape
+- name: interactive_bom
+  type: ibom
+  dir: bom
+  options:
+    include_tracks: true
 - name: basic_info
   comment: Information about the run
   type: info
